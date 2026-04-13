@@ -189,7 +189,7 @@ function App() {
         <p className="section-subtitle">Ready to start your AI project? Let's talk.</p>
         <form 
           className="contact-form"
-          action="https://formspree.io/f/YOUR_FORM_ID"
+          action="https://formspree.io/f/mvzdpyla"
           method="POST"
         >
           <div className="form-row">
