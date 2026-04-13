@@ -16,6 +16,16 @@ function App() {
         <div className="hero-bg">
           <div className="glow"></div>
           <div className="lemon-mark"></div>
+          <div className="particles">
+            <div className="particle"></div>
+            <div className="particle"></div>
+            <div className="particle"></div>
+            <div className="particle"></div>
+            <div className="particle"></div>
+            <div className="particle"></div>
+            <div className="particle"></div>
+            <div className="particle"></div>
+          </div>
         </div>
       </section>
 
