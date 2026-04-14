@@ -1,0 +1,17 @@
+# Environment
+.env
+.env.*
+*.pem
+*.key
+
+# Cloudflare credentials
+*.json
+!config.yml.example
+!.gitignore
+
+# Dependencies
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db

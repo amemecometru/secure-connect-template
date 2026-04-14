@@ -1,0 +1,9 @@
+tunnel: <TUNNEL_ID>
+credentials-file: <TUNNEL_ID>.json
+
+ingress:
+  - hostname: example.com
+    service: http://localhost:3000
+  - hostname: www.example.com
+    service: http://localhost:3000
+  - service: http_status:404
