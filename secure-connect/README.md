@@ -35,7 +35,7 @@ cd secure-connect
 | Basic | $69 one-time | Script + config + setup guide |
 | Pro | $199 one-time | Basic + custom styling + multiple tunnels |
 
-[**Purchase Secure Connect**](https://buy.stripe.com/your-link)
+[**Purchase Basic ($69)**](https://buy.stripe.com/test_14A14mfFx67E5HGbhv77O00) &nbsp;|&nbsp; [**Purchase Pro ($199)**](https://buy.stripe.com/test_6oUaEW0KD0Nkc64fxL77O01)
 
 ## Included Files
 

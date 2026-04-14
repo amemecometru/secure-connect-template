@@ -139,7 +139,7 @@ pkill -f cloudflared
 - Configuration templates
 - Setup guide (this document)
 
-[**Purchase Basic**](https://buy.stripe.com/your-basic-link)
+[**Purchase Basic ($69)**](https://buy.stripe.com/test_14A14mfFx67E5HGbhv77O00)
 
 ### Pro Plan - $199 (one-time)
 - Everything in Basic
@@ -147,7 +147,7 @@ pkill -f cloudflared
 - Multiple tunnel configurations
 - Priority setup support
 
-[**Purchase Pro**](https://buy.stripe.com/your-pro-link)
+[**Purchase Pro ($199)**](https://buy.stripe.com/test_6oUaEW0KD0Nkc64fxL77O01)
 
 ---
 
